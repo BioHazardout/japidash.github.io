@@ -1004,25 +1004,25 @@ section table tbody td{
     .detail__modal-content{ 
         width: 90%;      
     } 
-    .space__h4 h4{
+    /*.space__h4 h4{
         font-size: 11px;
     }
     .detail__title{
         font-size: 13px;
         padding: .15rem;
-    }
+    }*/
 }
 
 @media (max-width: 500px){
     .dash-content{
         min-width:500px;   
     }
-    .space__h4 h4{
+    /*.space__h4 h4{
         font-size: 10px;
     }
     .detail__title{
         font-size: 12px;
-    }
+    }*/
     .button-index-green,
     .button-index-red{
         min-width: 85px;
